@@ -1,1 +1,1 @@
-# Sheep-Counter-C
+Small C practice program
